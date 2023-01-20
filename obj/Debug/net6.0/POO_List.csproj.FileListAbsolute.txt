@@ -1,0 +1,15 @@
+C:\Users\beatriz\Documents\Coding 2023\POO_List\bin\Debug\net6.0\POO_List.exe
+C:\Users\beatriz\Documents\Coding 2023\POO_List\bin\Debug\net6.0\POO_List.deps.json
+C:\Users\beatriz\Documents\Coding 2023\POO_List\bin\Debug\net6.0\POO_List.runtimeconfig.json
+C:\Users\beatriz\Documents\Coding 2023\POO_List\bin\Debug\net6.0\POO_List.dll
+C:\Users\beatriz\Documents\Coding 2023\POO_List\bin\Debug\net6.0\POO_List.pdb
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.csproj.AssemblyReference.cache
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.AssemblyInfoInputs.cache
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.AssemblyInfo.cs
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.csproj.CoreCompileInputs.cache
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.dll
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\refint\POO_List.dll
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.pdb
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\POO_List.genruntimeconfig.cache
+C:\Users\beatriz\Documents\Coding 2023\POO_List\obj\Debug\net6.0\ref\POO_List.dll
